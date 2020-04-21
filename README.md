@@ -5,6 +5,6 @@ Repository containing portfolio of data science and machine learning projects co
 
 Note: Data used in the projects (accessed under data directory) is obtained from Kaggle and other sources.
 
-Contents
+# Contents
 
 Machine Learning
