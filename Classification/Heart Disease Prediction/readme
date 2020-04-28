@@ -1,1 +1,7 @@
+#Heart Disease Prediction
+##In this machine learning project, I have collected the dataset from Kaggle (https://www.kaggle.com/ronitf/heart-disease-uci) and I will be using Machine Learning to make predictions on whether a person is suffering from Heart Disease or not.
 
+#Import libraries
+##Let's first import all the necessary libraries. I'll be using numpy and pandas to start with. For visualization, I will use pyplot 
+## which is a subpackage of matplotlib, use rcParams to add styling to the plots and rainbow for colors. For implementing 
+##Machine Learning models and processing of data, I will use the sklearn library.
